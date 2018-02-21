@@ -6,6 +6,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class AccountDBRepositoryTest {
+	
 
 	@Before
 	public void setUp() throws Exception {
@@ -13,7 +14,7 @@ public class AccountDBRepositoryTest {
 
 	@Test
 	public void test() {
-		fail("Not yet implemented");
+		
 	}
 
 }
