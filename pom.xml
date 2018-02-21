@@ -5,9 +5,6 @@
   <artifactId>account-project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-=======
-  <artifactId>account-project1</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
 
   <packaging>war</packaging>
   
@@ -148,8 +145,7 @@
 		    <artifactId>junit</artifactId>
 		    <version>4.12</version>
 		</dependency>
-
-		</dependency>        
+    
        
 
     </dependencies>
@@ -178,6 +174,5 @@
         </plugins>
     </build> 
 
-    </build>
 
 </project>
